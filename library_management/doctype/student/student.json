@@ -1,0 +1,14 @@
+{
+    "module": "Your App Name",
+    "name": "Student",
+    "doctype": "DocType",
+    "istable": 1,
+    "fields": [
+        {
+            "fieldname": "student_name",
+            "label": "Student Name",
+            "fieldtype": "Data",
+            "reqd": 1
+        }
+    ]
+}
